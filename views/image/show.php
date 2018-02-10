@@ -1,0 +1,1 @@
+<img alt="<?= $this->imageAlt ?>" src="<?=$this->imageUrl ?>" <?= $this->imageSize ?> />
